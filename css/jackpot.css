@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+.haut{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    height: 40px;
+    width: 100%;
+    border: blue 1px solid;
+    text-align: center;
+   
+}
+.pour{
+    background-color: blue;
+    border: brown 1px solid;
+}
+.start{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+}
+.flowers{
+    border: blueviolet 1px solid;
+}
